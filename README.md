@@ -85,7 +85,7 @@ EMAIL_USER=your_email@gmail.com
 EMAIL_PASSWORD=your_16_char_app_password
 
 # Application URL
-NEXT_PUBLIC_APP_URL=http://localhost:3000
+NEXT_PUBLIC_APP_URL=http://smart-task-planner-pied.vercel.app
 \`\`\`
 
 **Important:**
@@ -104,13 +104,13 @@ npm install --legacy-peer-deps
 npm run dev
 \`\`\`
 
-The application will be available at **http://localhost:3000**
+The application will be available at **http://smart-task-planner-pied.vercel.app**
 
 ## 📖 How to Use
 
 ### First Time Setup
 
-1. Navigate to http://localhost:3000
+1. Navigate to http://smart-task-planner-pied.vercel.app
 2. You'll be redirected to `/auth` (login page)
 3. Click **"Sign up"** to create an account
 4. Enter your email and password (min 6 characters)
@@ -278,7 +278,7 @@ lib/
 | `EMAIL_PORT` | SMTP port | `587` |
 | `EMAIL_USER` | Email address | `your@email.com` |
 | `EMAIL_PASSWORD` | Email app password | 16-character app password |
-| `NEXT_PUBLIC_APP_URL` | Application URL | `http://localhost:3000` |
+| `NEXT_PUBLIC_APP_URL` | Application URL | `http://smart-task-planner-pied.vercel.app` |
 
 ## 🚀 Production Deployment
 
