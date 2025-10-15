@@ -1,4 +1,4 @@
-# 🚀 Smart Task Planner with Gemini AI & Authentication
+# 🚀 Smart Task Planner 
 
 A Next.js application that uses Google's Gemini AI to break down goals into actionable tasks with timelines and dependencies. Features complete authentication with JWT tokens, MongoDB, and email verification via OTP.
 
